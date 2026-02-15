@@ -1,6 +1,6 @@
 # E-Commerce-Sales-Dashboard
 1.	Project Title / Headline
-📊 E-commerce Analytics: Madhav E-commerce Sales Dashboard
+📊 E-commerce Analytics: Madhav E-commerce Sales Dashboard. 
 The purpose of the Madhav Ecommerce Sales Dashboard is to provide a visual summary of key performance indicators, such as total sales, profit, and customer trends, to help track and analyze business performance.
 
 2.	Short Description / Purpose
